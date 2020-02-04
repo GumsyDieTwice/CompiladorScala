@@ -1,0 +1,59 @@
+Using ProgramaChido;
+Namespace MyWaifuDoesntLovesMe
+{
+	Public clss Chuls 
+	{	
+		For a In[0,12,5]{
+		Rd: "Last Stardust";
+		Clean;
+		SELECT Chuls FROM TheFullLazy
+		CREATE TABLE Bruh
+		DROP TABLE Waifus_1 
+		New Thread hilo1[Start];
+		Rectangle rectangulo1 = New Rectangle[Brush];
+		}
+		While gato=="perro"{
+		DrawCurve [Pen,1,2];
+		FillEllipse[Brush,10,20];
+		Foreach[chuls <= Chulos];
+		Vector.dtInt[vector1]:[coke];
+		Matriz.dtStrng[matriz1]:[4][benja];
+		Pen lapiz1 = New.obj Pen[Red,12];
+		obj Mario = New obj;
+		}
+	}
+
+	Priv clss Dramaturgo 
+	{ 
+		Public dtStrng tobias = "neko";
+		Priv void Cole[d:dtStrng]
+		{	
+			If perro<gato {
+			New Thread hilo2[Start]; 
+			}
+			Else{
+			SELECT mario FROM TheFullLazy JOIN SELECT gussy FROM tectijuana
+			}
+		}
+	}
+
+	Public clss Chivomin 
+	{
+		Public dtInt funcion1[a:dtInt,b:dtInt,c:dtInt,f:dtInt] 
+		{	Do{
+			obj toro = New obj; 
+			Priv dtStrng Tobias = Nekomata;
+			DrawPolygon[Brush,2,6];
+			} While perro<gato;
+		}
+		exTry
+		{ 
+			obj Hugo = New obj;
+			Pen lapiz2 = New.obj Pen[Green,13];
+		 
+		exCatch
+		{
+			Clean;
+		}
+	}
+}
